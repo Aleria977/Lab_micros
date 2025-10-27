@@ -1,5 +1,5 @@
 # Welcome to the Markdown Editor!
 
-## Practica 1 puestos de entrada y salida
+## Practica 1 puertos de entrada y salida
 
 ### Documentacion de Codigo
